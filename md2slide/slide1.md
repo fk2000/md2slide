@@ -52,7 +52,8 @@ document.write('greeting');
 ## image3 absolute path
 
 ![image](https://github.com/fk2000/md2slide/blob/master/example/img1.jpg)
-
+- なぜか表示されない
 ---
 
+ご清聴ありがとうございました
 https://github.com/fk2000/md2slide
