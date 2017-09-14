@@ -5,7 +5,7 @@ by fk2000
 ---
 
 ## Slide URL
-- http://fk2000.github.io/mark2slide/index.html?slide=md2slide/slide1.md
+- http://fk2000.github.io/md2slide/index.html?slide=md2slide/slide1.md
 
 ---
 
